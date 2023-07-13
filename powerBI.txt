@@ -1,1 +1,2 @@
-This is my power BI project for Adventurework Company
+This is my power BI project for Adventurework Company.
+This report project give an overview of the sales, profit, revenue,top custumors data.
