@@ -1,2 +1,4 @@
 This is my Power BI project for Adventurework Company.
 This report project gives an overview of the sales, profit, revenue, and top customer data.
+
+Thanks!!!
